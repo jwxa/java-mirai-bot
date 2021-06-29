@@ -1,0 +1,4 @@
+bot:
+  websocketUrl: ws://10.0.0.9:6700
+  websocketPort:
+  accessToken:
